@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SharonZane01
 - 👀 I’m interested in Web developing
 - 🌱 I’m currently learning Front end development- React
-- 📫 How to reach me - portfolio
+- 📫 How to reach me - https://portfolio-sharon-zane-01.netlify.app/
 
 
 <!---
