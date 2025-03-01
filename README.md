@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sharon-zane-01.netlify.app/](https://portfolio-sharon-zane-01.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-sharon-zane-01.netlify.app/](https://sharonzane-portfolio.netlify.app/)
 
 - 📫 How to reach me **sharonzane795@gmail.com**
 
